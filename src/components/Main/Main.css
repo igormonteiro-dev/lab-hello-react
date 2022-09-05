@@ -1,0 +1,22 @@
+.main {
+  padding: 40px 0;
+  width: 100%;
+  background-color: #1f2536;
+  background-image: url("../../images/bg_react.jpeg");
+  background-size: cover;
+  background-position: center;
+  min-height: 600px;
+}
+
+.menu {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.hero {
+  text-align: left;
+  width: 35rem;
+  margin-top: 8rem;
+}

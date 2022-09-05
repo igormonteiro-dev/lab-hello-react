@@ -1,0 +1,27 @@
+.items {
+  margin-top: 40px;
+  width: 25%;
+  padding: 8px 30px;
+}
+
+@media screen and (max-width: 768px) {
+  .items {
+    width: 100%;
+  }
+}
+
+.icon {
+  width: 100px;
+}
+
+.features {
+  padding-top: 50px;
+  width: 100%;
+  min-height: 400px;
+  display: flex;
+  text-align: center;
+}
+
+.items p {
+  color: #707170;
+}
